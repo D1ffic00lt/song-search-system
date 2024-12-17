@@ -1,0 +1,12 @@
+*.DS_Store
+*.ipynb
+*.webp
+*.webm
+*.csv
+*.mp3
+*.model
+*.npy
+**/.idea
+**/__pycache__
+
+!api/recommendation_system/rec_system.ipynb
