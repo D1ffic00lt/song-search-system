@@ -1,0 +1,1 @@
+python3.11 -m streamlit run streamlit_app.py
